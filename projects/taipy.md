@@ -16,6 +16,5 @@
 #### 📝 **Contribution summary**
 - Diagnosed and fixed a system-level timezone detection bug causing app startup failures.
 - Improved the user experience for Taipy GUI applications in international environments.
-- Collaborated transparently with Taipy maintainers during investigation and review.
 
 ---

@@ -7,7 +7,7 @@
 ### 📝 **Summary**
 
 - 🟢 **3 merged Pull Requests** in **2 open source projects**
-- 🛠️ Bugfixes, ✨ features, 🧹 refactorings, 📚 documentation, and ✅ test improvements
+- 🐞 Bugfixes, ✨ features, 🧹 refactorings, 📚 documentation, ✅ test improvements
 
 ---
 
