@@ -12,9 +12,9 @@
 #### [aibolit](https://github.com/cqfn/aibolit)
 
 - 5 Pull Requests: bugfixes, feature improvements, test coverage
-- [See details...](PROJECTS/aibolit.md)
+- [See details...](projects/aibolit.md)
 
 #### [taipy](https://github.com/Avaiga/taipy)
 
 - 1 Pull Requests:
-- [See details...](PROJECTS/taipy.md)
+- [See details...](projects/taipy.md)
