@@ -92,3 +92,20 @@ Tests:
 Updated tests to process Java source code as lists of lines instead of file paths.
 
 ---
+
+### 🛠️ [Unit tests negatively impacted by filesystem usage, causing slower run times (PR #854)](https://github.com/cqfn/aibolit/pull/854)
+
+- **Type:**  ✨ features, ✅ test improvements
+- **Issue:** [#692 Unit tests negatively impacted by filesystem usage, causing slower run times](https://github.com/cqfn/aibolit/issues/692)
+- **Description:**  
+Unit tests use filesystem, which makes them slightly slower.
+
+### 📝 **Contribution summary**
+
+New Features:
+- Added the ability to create an AST directly from a source code string.
+
+Tests:
+- Updated tests to use inline Java code strings instead of external files, improving test reliability and simplicity.
+
+---
