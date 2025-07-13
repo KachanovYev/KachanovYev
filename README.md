@@ -6,7 +6,7 @@
 
 ### 📝 **Summary**
 
-- 🟢 **3 merged Pull Requests** in **2 open source projects**
+- 🟢 **2 merged Pull Requests** in **2 open source projects**
 - 🐞 Bugfixes, ✨ features, 🧹 refactorings, 📚 documentation, ✅ test improvements
 
 ---
