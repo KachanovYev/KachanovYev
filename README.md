@@ -31,3 +31,12 @@
 - 📄 [**See details...**](projects/taipy.md)
 
 ---
+
+### [Prompt-Python](https://github.com/KachanovYev/Prompt-Python)
+> **Python Code Generation Prompt**  
+> This repository contains an optimized prompt for generating clean and testable 
+> _Python code using LLMs (Large Language Models).
+
+- My own open source project
+
+---
