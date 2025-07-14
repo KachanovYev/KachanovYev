@@ -1,6 +1,13 @@
-## 👋 Hi there!
+## 👋 Hello there!
+ 
+I am a Software Developer with 7+ years of experience building scalable mobile, desktop, and 
+embedded applications. My work spans Android, iOS, Unity, Flutter, C++, C#, and cross-platform 
+solutions. I bring deep technical expertise, team leadership, and product delivery in diverse 
+industries including automotive, retail, and gaming. 
 
-# 🚀 OSS Contribution Portfolio
+#### [My CV.pdf](https://github.com/KachanovYev/KachanovYev/blob/main/kachanov_yevhenii_mobile_developer_2025_06_july.pdf)
+
+### 🚀 OSS Contribution Portfolio
 
 ---
 
