@@ -5,7 +5,7 @@ embedded applications. My work spans Android, iOS, Unity, Flutter, C++, C#, and 
 solutions. I bring deep technical expertise, team leadership, and product delivery in diverse 
 industries including automotive, retail, and gaming. 
 
-#### [My CV.pdf](https://github.com/KachanovYev/KachanovYev/blob/main/kachanov_yevhenii_mobile_developer_2025_06_july.pdf)
+#### [My CV.pdf](https://github.com/KachanovYev/KachanovYev/blob/main/kachanov_yevhenii_software_developer_2025_17_july.pdf)
 
 ### 🚀 OSS Contribution Portfolio
 
