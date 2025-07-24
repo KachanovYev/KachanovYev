@@ -34,7 +34,7 @@ industries including automotive, retail, and gaming.
 > **Python Framework for Building Web Applications**  
 > _For data scientists and ML engineers to create data & AI-driven web apps._
 
-- 🔢 **1 Pull Request**  
+- 🔢 **2 Pull Requests**  
 - 📄 [**See details...**](projects/taipy.md)
 
 ---
