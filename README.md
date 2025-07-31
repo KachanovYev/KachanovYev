@@ -14,7 +14,7 @@ industries including automotive, retail, and gaming.
 ### 📝 **Summary**
 
 - 🟢 **4 merged Pull Requests** in **2 open source projects**
-- 🐞 Bugfixes, ✨ features, 🧹 refactorings, 📚 documentation, ✅ test improvements
+- 🐞 Bugfixes, ✨ features, ⚡ Optimization, 🧹 refactorings, 📚 documentation, ✅ test improvements
 
 ---
 
@@ -34,7 +34,7 @@ industries including automotive, retail, and gaming.
 > **Python Framework for Building Web Applications**  
 > _For data scientists and ML engineers to create data & AI-driven web apps._
 
-- 🔢 **2 Pull Requests**  
+- 🔢 **3 Pull Requests**  
 - 📄 [**See details...**](projects/taipy.md)
 
 ---
