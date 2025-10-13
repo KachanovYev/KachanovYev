@@ -31,18 +31,3 @@ Bug Fixes:
 - Fixed a critical bug for using flags --no-run-browser and --no-reloader. They should disable the browser and reloader respectively.
 
 ---
-
-### 🛠️ [Running taipy in notebooks is slow  (PR #2704)](https://github.com/Avaiga/taipy/pull/2704)
-
-- **Type:** 🐞 Bug Fix, ⚡ Optimization
-- **Issue:** [#2489 Running Taipy in notebooks is slow](https://github.com/Avaiga/taipy/issues/2489)
-- **Description:**
-  Interacting with this application by jupyter notebook has a lot of latency to update the chart compared to when running in normal .py scripts
-
-#### 📝 **Contribution summary**
-Bug Fixes:
-- Resolve latency for jupyter notebook.
-
-Optimization:
-- Thread configuration for Jupyter Notebook to improve performance.
----
